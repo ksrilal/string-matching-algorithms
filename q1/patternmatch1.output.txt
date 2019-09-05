@@ -1,0 +1,17 @@
+Pattern: d_a
+
+Text: dsa bla  bla foaijfo ajrerjao pkoa daa afkpof ee ddd ajfpoadskf daddd afpk fdepr dsa daaaaa dsa ajfpoadskf ddd  
+
+match found after 0 shifts
+
+match found after 35 shifts
+
+match found after 51 shifts
+
+match found after 68 shifts
+
+match found after 81 shifts
+
+match found after 85 shifts
+
+match found after 92 shifts

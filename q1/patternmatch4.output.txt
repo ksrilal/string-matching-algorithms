@@ -1,0 +1,23 @@
+Pattern: _
+
+Text:  data data
+
+match found after 0 shifts
+
+match found after 1 shifts
+
+match found after 2 shifts
+
+match found after 3 shifts
+
+match found after 4 shifts
+
+match found after 5 shifts
+
+match found after 6 shifts
+
+match found after 7 shifts
+
+match found after 8 shifts
+
+match found after 9 shifts

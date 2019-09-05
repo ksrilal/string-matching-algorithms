@@ -1,0 +1,13 @@
+Pattern: __a_n_b am_l
+
+Text: __a_n_b am_l jkaonib amkl a bla bla bla fjdo  ainlbamnlb amil jp aeporka nladkfn aepoqr am aejroia afk mlewqrkop naf olanoeijr poejrpoae kfmpaoewr eajpoaewrj  erjapeowr kmpoaekrae[poejrpoae asfasf afkasfpo   a n b am l   ioaaaaaaaaaaknnb amml   
+
+match found after 0 shifts
+
+match found after 13 shifts
+
+match found after 49 shifts
+
+match found after 206 shifts
+
+match found after 230 shifts

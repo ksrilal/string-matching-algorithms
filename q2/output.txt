@@ -1,0 +1,77 @@
+protein_id = "ABC"
+NO DATA HAS BEEN MATCHED
+
+protein_id = "X123"
+[KF040389.1 Cloning vector pCN-LYS21-GFP] at offset 348
+[AB262455.1 Transposon vector T2AL200L200G DNA] at offset 131
+
+sampleDNA testSubject 1
+[KJ668651.1 Tetraselmis subcordiformis transgenic GFP (gfp) gene] at offset 173
+[LN515608.1 Synthetic construct for Aequorea victoria partial gfp gene for GFP] at offset 1
+[KU306402.1 Cloning vector pJV53-GFP] at offset 166
+[MK371209.1 Synthetic construct clone Sp_4004H24 sequence] at offset 102
+[MK371208.1 Synthetic construct clone Sp_44J22 sequence] at offset 37
+[KF040393.1 Cloning vector pCN-MET3-GFP] at offset 70
+[KF040389.1 Cloning vector pCN-LYS21-GFP] at offset 70
+[GQ889498.1 Recombineering donor plasmid pDOC-G] at offset 290
+[EF143813.2 Expression vector pCeMM-NTAP(GS)-Gw] at offset 9
+[AB262455.1 Transposon vector T2AL200L200G DNA] at offset 7
+[EU483152.1 Shuttle vector pMQ122] at offset 292
+[MK753227.1 Escherichia coli str] at offset 82
+[HM151400.1 GFP expression vector pHapII] at offset 70
+
+protein_id = "A7125f"
+NO DATA HAS BEEN MATCHED
+
+Empty
+NO DATA HAS BEEN MATCHED
+
+protein_id="AAA98665.1"
+NO DATA HAS BEEN MATCHED
+
+protein_id="AAA98662331213"
+[KU306402.1 Cloning vector pJV53-GFP] at offset 83
+
+Nucleic acid notation
+NO DATA HAS BEEN MATCHED
+
+protein_id = "B12346789753"
+NO DATA HAS BEEN MATCHED
+
+testDNA1 = "sampleNum1"
+[U50974.1 Cloning vector pFW gfp gene] at offset 163
+[LN515608.1 Synthetic construct for Aequorea victoria partial gfp gene for GFP] at offset 122
+
+sampleDNA testDNA1
+[KF040393.1 Cloning vector pCN-MET3-GFP] at offset 46
+[KF040389.1 Cloning vector pCN-LYS21-GFP] at offset 46
+[HM151400.1 GFP expression vector pHapII] at offset 46
+
+protein_id "IOI"
+[KJ668651.1 Tetraselmis subcordiformis transgenic GFP (gfp) gene] at offset 29
+[U50974.1 Cloning vector pFW gfp gene] at offset 5
+[LN515608.1 Synthetic construct for Aequorea victoria partial gfp gene for GFP] at offset 3
+[MF461355.1 Plastid transformation vector pATV1] at offset 46
+[KU306402.1 Cloning vector pJV53-GFP] at offset 56
+[AF286455.1 Promoter probe vector] at offset 88
+[MK371210.1 Synthetic construct clone] at offset 0
+[MK371209.1 Synthetic construct clone Sp_4004H24 sequence] at offset 0
+[MK371208.1 Synthetic construct clone Sp_44J22 sequence] at offset 0
+[KF040393.1 Cloning vector pCN-MET3-GFP] at offset 24
+[KF040389.1 Cloning vector pCN-LYS21-GFP] at offset 24
+[JX445134.1 Insertion vector scAAV-CMV-GFP] at offset 41
+[AF286454.1 Promoter probe vector pPROBE-NT'] at offset 88
+[FJ455409.1 Fusion vector pFRT2-gfp-Tel] at offset 5
+[GQ889498.1 Recombineering donor plasmid pDOC-G] at offset 4
+[EF143813.2 Expression vector pCeMM-NTAP(GS)-Gw] at offset 11
+[AB262455.1 Transposon vector T2AL200L200G DNA] at offset 9
+[EU483152.1 Shuttle vector pMQ122] at offset 6
+[MK753227.1 Escherichia coli str] at offset 11
+[HM151400.1 GFP expression vector pHapII] at offset 24
+
+Space
+NO DATA HAS BEEN MATCHED
+
+Space with same character
+NO DATA HAS BEEN MATCHED
+

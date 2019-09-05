@@ -1,0 +1,63 @@
+Pattern: aa_aa
+
+Text:  afaposkf aaaaaaaaaaaaaaaaaaaaaaaaa aaaaaa aa aa aaaaa aa dfadadaaiaa 
+
+match found after 10 shifts
+
+match found after 11 shifts
+
+match found after 12 shifts
+
+match found after 13 shifts
+
+match found after 14 shifts
+
+match found after 15 shifts
+
+match found after 16 shifts
+
+match found after 17 shifts
+
+match found after 18 shifts
+
+match found after 19 shifts
+
+match found after 20 shifts
+
+match found after 21 shifts
+
+match found after 22 shifts
+
+match found after 23 shifts
+
+match found after 24 shifts
+
+match found after 25 shifts
+
+match found after 26 shifts
+
+match found after 27 shifts
+
+match found after 28 shifts
+
+match found after 29 shifts
+
+match found after 30 shifts
+
+match found after 33 shifts
+
+match found after 36 shifts
+
+match found after 37 shifts
+
+match found after 40 shifts
+
+match found after 43 shifts
+
+match found after 46 shifts
+
+match found after 49 shifts
+
+match found after 52 shifts
+
+match found after 64 shifts

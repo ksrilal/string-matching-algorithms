@@ -1,0 +1,29 @@
+>protein_id = "ABC"
+CATTCTGACTGCAA
+>protein_id = "X123"
+AAAAAAG
+>sampleDNA testSubject 1
+GTAA
+>protein_id = "A7125f"
+AGAGAGAGAGAGAGAGAGAGAGAGAGAGAG
+>Empty
+
+>protein_id="AAA98665.1"
+GAATCTTAAGTGAAATCGCG
+>protein_id="AAA98662331213"
+GCCGAGTGTGCGGCTTTTGAATCGTGCGGGCTGGACGTCGACCAGTTGCGC
+>Nucleic acid notation
+AATCCGCTAG
+>protein_id = "B12346789753"
+CGCCCGAACCCAGCTCCGCCCTAGTGGCCGCGGGCT
+>testDNA1 = "sampleNum1"
+TACCCTTAAA
+>sampleDNA testDNA1
+CCCGGAGA
+>protein_id "IOI"
+AA
+>Space
+A AT
+>Space with same character
+AA AA
+>EOF
